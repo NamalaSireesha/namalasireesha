@@ -27,7 +27,7 @@
 ---
 
 ## 📊 LeetCode & Coding Stats
-- 🧩 **Solved Problems:** 430+  
+- 🧩 **Solved Problems:** 470+  
 - 🌐 [My LeetCode Profile](https://leetcode.com/u/22a31a05f1/)  
 - ⭐ HackerRank: **5★** in Python & Java  
 
